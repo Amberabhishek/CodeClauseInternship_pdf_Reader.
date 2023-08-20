@@ -39,9 +39,7 @@ implementation 'com.danjdt:pdfviewer:0.1.0'
     pdfViewer.load(inputStream : InputStream)
 ```
 
-|     Scroll    |     Zoom      |
-| ------------- | ------------- |
-| ![](gif1.gif) |![](git2.gif)  |
+
 
 
 ## Customize
